@@ -4,7 +4,7 @@
 
 
 ## Visit Count
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{woaiqiukui})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+![Visitor Count](https://profile-counter.glitch.me/woaiqiukui/count.svg)
 
 
 <!--
