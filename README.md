@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woaiqiukui&show_icons=true&theme=synthwave)
 
+
+## Visit Count
+![Visitor Count](https://profile-counter.glitch.me/timwhitez/count.svg)
 <!--
 **woaiqiukui/woaiqiukui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
