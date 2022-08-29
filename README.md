@@ -6,6 +6,8 @@
 ## Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/woaiqiukui/count.svg)
 
+![snake](./assets/github-contribution-grid-snake.svg)
+
 
 <!--
 **woaiqiukui/woaiqiukui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
